@@ -1,5 +1,6 @@
 # Mermaid Testing
 
+## Diagram Syntax
 ### A node (rhombus)
 
 ```mermaid
