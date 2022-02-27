@@ -2,6 +2,7 @@
 
 ### Table of Contents
 - [Application Deployment Notes](./deployment.md)
+- [Mermaid testing](./mermaid.md)
 
 ---
 ### Example of a Flow Chart
